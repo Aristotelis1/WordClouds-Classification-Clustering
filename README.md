@@ -1,5 +1,5 @@
 # WordClouds-Classification-Clustering
-Purpose of this project was to use wordclouds to analyze data and use algorithms for classification and clustering
+Purpose of this project is to use wordclouds to analyze data and use algorithms for classification and clustering
 
 Algorithms for classification: 
 -Support Vector Classifier(SVC)
